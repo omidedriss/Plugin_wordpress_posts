@@ -3,7 +3,7 @@
  * Plugin Name: Advanced Posts API
  * Description: ارائه API پیشرفته برای دریافت اطلاعات پست‌ها با قابلیت جستجو
  * Version: 1.0.0
- * Author: Your Name
+ * Author: omidedriss
  */
 
 // جلوگیری از دسترسی مستقیم
